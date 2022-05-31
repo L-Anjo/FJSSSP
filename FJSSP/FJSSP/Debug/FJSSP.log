@@ -1,0 +1,14 @@
+﻿  Plano.c
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\Plano.c(124,18): warning C4033: 'CarregarDadosFicheiro' deve retornar um valor
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\Plano.c(147,34): warning C4133: '=': tipos incompatíveis - de 'ListaMaquinaa *' para 'Maquinaa *'
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\Plano.c(119,16): warning C4101: 'auxMaq': variável local não referenciada
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\Plano.c(114,6): warning C4101: 'a': variável local não referenciada
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\Plano.c(117,17): warning C4101: 'auxOper': variável local não referenciada
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\Plano.c(114,9): warning C4101: 'b': variável local não referenciada
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\Plano.c(114,12): warning C4101: 'c': variável local não referenciada
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\Plano.c(114,15): warning C4101: 'd': variável local não referenciada
+  main.c
+  Gerando Código...
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\Plano.c(94): warning C4716: 'OcupaPlano': deve retornar um valor
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\Plano.c(159): warning C4715: 'CarregarDadosFicheiro': nem todos os caminhos de controle retornam um valor
+  FJSSP.vcxproj -> C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\Debug\FJSSP.exe

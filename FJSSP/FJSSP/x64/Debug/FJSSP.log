@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\main.c(51,36): warning C4133: 'função': tipos incompatíveis - de 'Operacoes *' para 'ListaOperacoes *'
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\FJSSP\main.c(51,46): warning C4133: '=': tipos incompatíveis - de 'ListaOperacoes *' para 'Operacoes *'
+  FJSSP.vcxproj -> C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\x64\Debug\FJSSP.exe
